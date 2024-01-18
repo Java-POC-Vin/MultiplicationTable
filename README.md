@@ -20,7 +20,7 @@ int tableLength = 10;
 
 It will print in console the multiplication table for the desired number.
 
-##Output example
+## Output example
 ```java
 Tabela de multiplicação por 5
 5 x 1 = 5
